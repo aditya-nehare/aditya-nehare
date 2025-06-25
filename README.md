@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A software developer</h3>
 
-<p>
+<p align="center">
   Feel free to explore my repositories, clone/fork projects, raise issues, or submit PRs if you think something can be improved.
 </p>
 
