@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aaditya</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-<!--
-**aditya-nehare/aditya-nehare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaditya-06&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya-06" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/adityanehare-02d)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram)](https://www.instagram.com/aditya__nehare/)
+
+---
+
