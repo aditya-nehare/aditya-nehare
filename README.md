@@ -9,35 +9,6 @@
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages**
-- C++
-- JavaScript
-
-**Frontend**
-- React
-- Tailwind CSS
-- HTML5, CSS3
-
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-
-**Core CS**
-- Data Structures & Algorithms (C++)
-- Operating Systems
-- DBMS
-- Computer Networks
-
-**Tools**
-- Git & GitHub
-- Linux
-- VS Code
-
----
-
 ## 📌 What I Focus On
 
 - Writing **clean, readable, and maintainable code**
